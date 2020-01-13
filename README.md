@@ -1,16 +1,7 @@
-# flutter_otp_screen
+# Flutter OTP Verification Screen
 
-A new Flutter application.
+![Screenshot_1578919004](https://user-images.githubusercontent.com/30828060/72256828-2a0c4a00-3630-11ea-9aa6-0d31b72ca6fa.png)
 
-## Getting Started
+![Screenshot_1578919000](https://user-images.githubusercontent.com/30828060/72256832-2d9fd100-3630-11ea-8bd6-7f17be57dc65.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
